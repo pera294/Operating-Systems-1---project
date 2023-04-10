@@ -1,2 +1,2 @@
 # Operating-Systems-1-project
-Project for course Operating Systems 1
+Implementation of operating system kernel which supports multithreading, time sharing and thread scheduling
